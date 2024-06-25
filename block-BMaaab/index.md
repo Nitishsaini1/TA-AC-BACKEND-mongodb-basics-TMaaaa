@@ -14,6 +14,6 @@ Write code to
 
 ```
 use DATABASE_INDIA
-show dbs
 db
+db.getName();
 ```
